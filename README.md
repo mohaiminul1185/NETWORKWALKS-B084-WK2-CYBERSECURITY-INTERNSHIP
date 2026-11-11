@@ -598,7 +598,7 @@ SCREENSHOT:
 
 - GitHub: https://github.com/mohaiminul1185/NETWORKWALKS-B084-WK2-CYBERSECURITY-INTERNSHIP
   <br>
-- LinkedIn: 
+- LinkedIn: https://lnkd.in/p/gGQZeuGD
 
 ---
 
